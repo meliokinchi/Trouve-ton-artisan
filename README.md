@@ -17,7 +17,7 @@ Plateforme dédiée aux artisans de la région Auvergne-Rhône-Alpes, permettant
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/VOTRE_USERNAME/trouve-ton-artisan.git
+git clone https://github.com/meliokinchi/Trouve-ton-artisan
 cd trouve-ton-artisan
 ```
 
